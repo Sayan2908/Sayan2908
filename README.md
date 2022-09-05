@@ -18,7 +18,15 @@
 I am a sophomore at IIT Guwahati,India
 - :seedling: Exploring Machine Learning and Web Development
 - 🌱:Looking forward to collaborations in above fields
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/sayan-dey-sarkar-06a4a8231)
+- :mailbox:How to reach me: sayandeysarkar2003@gmail.com
+
+### Connect with me:
+
+[![www.linkedin.com/in/sayan-dey-sarkar-06a4a8231](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![www.linkedin.com/in/sayan-dey-sarkar-06a4a8231](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![https://www.instagram.com/sayan_2908/](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
+[![https://www.instagram.com/sayan_2908/](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
 ---
 
