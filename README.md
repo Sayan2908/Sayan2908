@@ -20,13 +20,12 @@ I am a sophomore at IIT Guwahati,India
 - 🌱:Looking forward to collaborations in above fields
 - :mailbox:How to reach me: sayandeysarkar2003@gmail.com
 
-### Connect with me:
-
-[![www.linkedin.com/in/sayan-dey-sarkar-06a4a8231](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![www.linkedin.com/in/sayan-dey-sarkar-06a4a8231](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![https://www.instagram.com/sayan_2908/](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![https://www.instagram.com/sayan_2908/](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.instagram.com/sayan_2908/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sayan_2908" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Sayan_2908" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Sayan_2908" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/dudecoder" target="blank"><img align="center" src="https://github.com/Automattic/social-logos/blob/trunk/sources/svg/linkedin.svg" alt="Sayan-Dey-Sarkar" height="30" width="40" /></a>
+</p>
 
 ---
 
@@ -49,5 +48,10 @@ I am a sophomore at IIT Guwahati,India
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sayan2908&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan2908&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sayan2908&label=Profile%20views&color=0e75b6&style=flat" alt="Sayan2908" /> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sayan2908&show_icons=true&theme=dark" alt="Sayan2908" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sayan2908&show_icons=true&theme=dark" alt="Sayan2908" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sayan2908&theme=dark" alt="Sayan2908" /></p>
