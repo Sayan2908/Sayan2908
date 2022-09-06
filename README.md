@@ -17,7 +17,7 @@
 ### :woman_technologist: About Me :
 I am a sophomore at IIT Guwahati,India
 - :seedling: Exploring Machine Learning and Web Development
-- 🌱:Looking forward to collaborations in above fields
+- 🌱Looking forward to collaborations in above fields
 - :mailbox:How to reach me: sayandeysarkar2003@gmail.com
 
 <h3 align="left">Connect with me:</h3>
