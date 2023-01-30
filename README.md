@@ -23,7 +23,6 @@ I am a sophomore at IIT Guwahati,India
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/sayan__2908/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sayan_2908" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/Sayan_2908" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Sayan_2908" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sayan-dey-sarkar-06a4a8231/" target="blank"><img align="center" src="https://github.com/Automattic/social-logos/blob/trunk/sources/svg/linkedin.svg" alt="Sayan-Dey-Sarkar" height="30" width="40" /></a>
 </p>
 
