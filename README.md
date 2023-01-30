@@ -59,7 +59,6 @@ I am a sophomore at IIT Guwahati,India
 ---
 
 ### :fire: My Stats :
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sayan2908&label=Profile%20views&color=0e75b6&style=flat" alt="Sayan2908" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sayan2908&show_icons=true&theme=dark" alt="Sayan2908" /></p>
 
