@@ -29,6 +29,7 @@ I am a sophomore at IIT Guwahati,India
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -64,3 +65,14 @@ I am a sophomore at IIT Guwahati,India
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sayan2908&show_icons=true&theme=dark" alt="Sayan2908" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sayan2908&theme=dark" alt="Sayan2908" /></p>
+
+
+## Hactoberfest2022
+
+[![@sayan2908's Holopin board](https://holopin.me/sayan2908)](https://holopin.io/@sayan2908)
+
+---
+
+### Profile views counter
+
+![Visitor Count](https://profile-counter.glitch.me/{Sayan2908}/count.svg)
