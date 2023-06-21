@@ -57,7 +57,7 @@ I am a sophomore at IIT Guwahati,India
 
 ### :fire: My Stats :
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sayan2908&show_icons=true&theme=dark" alt="Sayan2908" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sayan2908&show_icons=true&langs_count=11&locale=en&layout=compact&&theme=radical&&count_private=true" alt="Sayan2908" style="display:flex"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sayan2908&show_icons=true&theme=dark" alt="Sayan2908" /></p>
 
