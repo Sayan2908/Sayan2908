@@ -1,21 +1,20 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="80%" />
 </div>
 <h1 align="center">
   Hi there Sayan here
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<div align="center">
-  <img src="https://preview.redd.it/pqxvdkixuh261.png?width=960&crop=smart&auto=webp&s=e92decd1bc5d0308b7dfca6a11642138c12062b3" width="450" height="300"/>
-</div>
 
 ---
+<img align="right" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width="400"/>
 
 ### :woman_technologist: About Me :
-I am a sophomore at IIT Guwahati,India
-- :seedling: Exploring Machine Learning and Web Development
-- 🌱Looking forward to collaborations in above fields
-- :mailbox:How to reach me: sayandeysarkar2003@gmail.com
+Hi Sayan this side a pre-finalyearite at IIT Guwahati,India
+- :seedling: I am currently deep diving into WEB 3 😍 feel free to guide me through
+- 🌱 Ask me anything about Web Development,App Development,UI UX or Machine Learning
+- 🌱Looking forward to collaborate in exciting web and app projects
+- :mailbox:Wnt to discuss more of my interests mail me here 😁 : sayandeysarkar2003@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
