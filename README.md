@@ -10,8 +10,8 @@
 <img align="right" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width="400"/>
 
 ### :woman_technologist: About Me :
-Hi Sayan this side a pre-finalyearite at IIT Guwahati,India
-- :seedling: I am currently deep diving into WEB 3 😍 feel free to guide me through
+Hi Sayan this side a Software Developer and Freelancer
+- :seedling: I am currently deep diving into Agentic frameworks also learning golang in free time feel free to guide me through 😁
 - 🌱 Ask me anything about Web Development,App Development,UI UX or Machine Learning
 - 🌱Looking forward to collaborate in exciting web and app projects
 - :mailbox:Wnt to discuss more of my interests mail me here 😁 : sayandeysarkar2003@gmail.com
